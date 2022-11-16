@@ -4,6 +4,7 @@ export default {
     port: 8080
   },
   target: 'static',
+  distDir: 'out',
   head: {
     title: 'request form - made by @Yefee8',
     htmlAttrs: {
