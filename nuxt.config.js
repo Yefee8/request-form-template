@@ -3,6 +3,7 @@ export default {
   server: {
     port: 8080
   },
+  target: 'static',
   head: {
     title: 'request form - made by @Yefee8',
     htmlAttrs: {
