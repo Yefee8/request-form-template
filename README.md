@@ -1,2 +1,10 @@
 # request-form-template
-request form's homepage, login &amp; register page's code! enjoy.
+
+this repo have 3 pages of my project([request-form](https://github.com/request-form)).
+
+## The pages are:
+- Homepage
+- Login
+- Register
+
+enjoy. :)
