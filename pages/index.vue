@@ -98,6 +98,7 @@ export default Vue.extend({
 body {
   overflow-x:hidden;
   @apply bg-dark text-white;
+  font-family: Poppins;
 }
 
 ::-webkit-scrollbar {
@@ -112,9 +113,5 @@ body {
 /* Handle */
 ::-webkit-scrollbar-thumb {
   @apply bg-white;
-}
-
-*{
-    font-family: Poppins;
 }
 </style>
