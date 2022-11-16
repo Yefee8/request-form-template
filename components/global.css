@@ -1,0 +1,15 @@
+.component{
+    @apply mt-24 md:mt-32;
+}
+
+.half-component{
+    @apply mt-12 md:mt-16;
+}
+
+body > *{
+    @apply ml-12 md:ml-48;
+}
+
+.title{
+    @apply text-2xl md:text-5xl w-7/12 font-medium;
+}
