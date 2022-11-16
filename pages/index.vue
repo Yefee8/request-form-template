@@ -92,13 +92,11 @@ export default Vue.extend({
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 @import url("../components/global.css");
 
 body {
   overflow-x:hidden;
   @apply bg-dark text-white;
-  font-family: Poppins;
 }
 
 ::-webkit-scrollbar {
